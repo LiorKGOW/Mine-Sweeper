@@ -18,7 +18,7 @@ Each turn, the program asks the player to enter a row a column, and a letter (F/
     If the player wants to open the spot normally, he needs to press O/o after choosing a spot.
     At any point in the game the player has the option of opening a Flagged spot simply by choosing it again and pressing O/o after (normally).
 
-the purpose of the game is to reveal all of the spots that are NOT mines.
+_The purpose of the game_ : Reveal all of the spots that are NOT mines.
 If the player has succeded to do so, it prints an according message.
 
 Good Luck !!
